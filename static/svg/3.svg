@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="-64" y1="-64" x2="64" y2="-64">
+   <stop offset="0" stop-color="#fbcece"/>
+   <stop offset="0.9882" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M64 64V0H0V64H64z"
+  />
+ </g>
+</svg>
