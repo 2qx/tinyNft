@@ -17,19 +17,19 @@ Token Category: `efe199d9c0973325a6aac631e3a367b03e6016302ac6be4c87a72782808b400
 <div style="display: flex; gap: 80px 80px; flex-wrap: wrap;">
 <div style="display: flex; justify-content: space-evenly;">
 
-<img src="./static/svg/6.svg" alt="Green on Green" style="width:400px;"/>
+<img src="./static/svg/6.svg" alt="Cold Green" style="width:400px;"/>
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
-<img src="./static/svg/7.svg" alt="Green on Green" style="width:400px;"/>
+<img src="./static/svg/7.svg" alt="Or Green" style="width:400px;"/>
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
-<img src="./static/svg/2.svg" alt="Green & gold" style="width:400px;"/>
+<img src="./static/svg/2.svg" alt="Green & Gold" style="width:400px;"/>
 
 </div>
 
