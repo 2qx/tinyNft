@@ -15,20 +15,20 @@ Eight squares were [minted](https://explorer.salemkode.com/tx/fad8a012b20d299fd7
 <div style="display: flex; justify-content: space-evenly;">
 
 
-![Green on Green](static/png/6_640.png)
+![Green on Green](./static/png/6_640.png)
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
 
-![Black & Gold|400x400](static/png/2_640.png)
+![Black & Gold|400x400](./static/png/2_640.png)
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
 
-![Hint of Pink](static/png/3_640.png)
+![Hint of Pink](./static/png/3_640.png)
 
 </div>
