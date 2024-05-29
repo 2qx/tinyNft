@@ -8,6 +8,8 @@ The picture isn't not just somewhere on chain, it's in the NFT commitment.
 
 How is this possible? Really [small vector graphics](https://bitcoincashresearch.org/t/experimenting-with-icons-in-op-returns/1307/3) in the [Commitments of CashToken NFTs](https://cashtokens.org/docs/spec/chip#transaction-output-data-model) on Bitcoin Cash.
 
+A  Web Component [(`<icon-hvif/>`)](https://github.com/2qx/icon-hvif) is available for rendering the graphics in browsers.
+
 ## Fields
 
 Token Category: `efe199d9c0973325a6aac631e3a367b03e6016302ac6be4c87a72782808b4000` 
@@ -29,3 +31,4 @@ Eight images were [minted](https://explorer.salemkode.com/tx/fad8a012b20d299fd77
         <icon-hvif data="6e6369660102010402fd2ef36e0064fc6e010a046060602020202060010a00010000" size=400  />
     </div>
 </div>
+
