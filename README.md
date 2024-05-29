@@ -19,21 +19,21 @@ Eight images were [minted](https://explorer.salemkode.com/tx/fad8a012b20d299fd77
 <div style="display: flex; justify-content: space-evenly;">
 
 <!--img src="./static/svg/6.svg" alt="Cold Green" style="width:400px;"/-->
-<icon-hvif data="6e63696601020004028751aa29ff3ab875010a046060602020202060010a00010000" width=400 alt="Cold Green" />
+<icon-hvif data="6e63696601020004028751aa29ff3ab875010a046060602020202060010a00010000" size=400 alt="Cold Green" />
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
 <!--img src="./static/svg/7.svg" alt="Or Green" style="width:400px;"/-->
-<icon-hvif data="6e6369660102010402fd2ef36e0064fc6e010a046060602020202060010a00010000" width=400 alt="Or Green" />
+<icon-hvif data="6e6369660102010402fd2ef36e0064fc6e010a046060602020202060010a00010000" size=400 alt="Or Green" />
 
 </div>
 
 <div style="display: flex; justify-content: space-evenly;">
 
-<img src="./static/svg/2.svg" alt="Green & Gold" style="width:400px;"/>
-<icon-hvif data="6e636966010203040200010101fce3c66e010a046060602020202060010a00010000" width=400 alt="Green & Gold" />
+<!--img src="./static/svg/2.svg" alt="Green & Gold" style="width:400px;"/-->
+<icon-hvif data="6e636966010203040200010101fce3c66e010a046060602020202060010a00010000" size=400 alt="Green & Gold" />
 
 </div>
 
@@ -42,7 +42,7 @@ Eight images were [minted](https://explorer.salemkode.com/tx/fad8a012b20d299fd77
 
 <!--img src="./static/svg/3.svg" alt="Hint of Pink" style="width:400px;"/-->
 
-<icon-hvif data="6e6369660102030402fcffffff00fbcece010a046060602020202060010a00010000" width=400 alt="Hint of Pink" />
+<icon-hvif data="6e6369660102030402fcffffff00fbcece010a046060602020202060010a00010000" size=400 alt="Hint of Pink" />
 
 </div>
 
