@@ -5,10 +5,10 @@
         "minor": 0,
         "patch": 0
     },
-    "latestRevision": "2024-10-08T00:00:00.000Z",
+    "latestRevision": "2024-10-12T00:00:00.000Z",
     "registryIdentity": {
         "name": "TinyNFTRegistry",
-        "description": "A registry of for TinyNFT metadata.",
+        "description": "A registry for TinyNFT metadata.",
         "uris": {
             "icon": "https://tinynft.meme/static/png/7.png",
             "web": "https://tinynft.meme/",
