@@ -7,7 +7,7 @@
     },
     "latestRevision": "2024-10-12T00:00:00.000Z",
     "registryIdentity": {
-        "name": "TinyNFTRegistry",
+        "name": "Tiny NFTs Registry",
         "description": "A registry for TinyNFT metadata.",
         "uris": {
             "icon": "https://tinynft.meme/static/png/7.png",
@@ -26,7 +26,7 @@
                     "nfts": {
                         "description": "A collection of images in NFT commitments encoded using a small binary vector (hvif/ncif).",
                         "parse": {
-                            "bytecode": "006b00cf6b",
+                            "bytecode": "00d26b",
                             "types": {
                                 "6e636966010500010a042020206060606020010a00010000": {
                                     "name": "Tiny NFTs - The Black One",
@@ -70,7 +70,7 @@
                                 },
                                 "6e636966010200040258163e11ffffaa00010a046060602020202060010a00010000": {
                                     "name": "Tiny NFTs - Green and Gold",
-                                    "description": "Abundance and Nourishment",
+                                    "description": "Abundance and nourishment",
                                     "uris": {
                                         "icon": "https://tinynft.meme/static/png/5_400.png",
                                         "image": "https://tinynft.meme/static/png/5.png"
@@ -86,7 +86,7 @@
                                 },
                                 "6e6369660102010402fd2ef36e0064fc6e010a046060602020202060010a00010000": {
                                     "name": "Tiny NFTs - Nuance",
-                                    "description": "Green fade",
+                                    "description": "Cool green fade",
                                     "uris": {
                                         "icon": "https://tinynft.meme/static/png/7_400.png",
                                         "image": "https://tinynft.meme/static/png/7.png"
