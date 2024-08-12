@@ -1,0 +1,103 @@
+{
+    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "latestRevision": "2024-10-08T00:00:00.000Z",
+    "registryIdentity": {
+        "name": "TinyNFTRegistry",
+        "description": "A registry of for TinyNFT metadata.",
+        "uris": {
+            "icon": "https://tinynft.meme/png/7.png",
+            "web": "https://tinynft.meme/",
+            "registry": "https://tinynft.meme/.well-known/bitcoin-cash-metadata-registry.json"
+        }
+    },
+    "identities": {
+        "efe199d9c0973325a6aac631e3a367b03e6016302ac6be4c87a72782808b4000": {
+            "2024-05-28T13:00:00.000Z": {
+                "name": "Tiny NFTs",
+                "description": "Pictures in CashToken NFT commitments.",
+                "token": {
+                    "category": "efe199d9c0973325a6aac631e3a367b03e6016302ac6be4c87a72782808b4000",
+                    "symbol": "TINYNFT",
+                    "nfts": {
+                        "description": "A collection of images in NFT commitments encoded using a small binary vector (hvif/ncif).",
+                        "parse": {
+                            "bytecode": "006b00cf6b",
+                            "types": {
+                                "6e636966010500010a042020206060606020010a00010000": {
+                                    "name": "Tiny NFTs - The Black One",
+                                    "description": "Number zero",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/0_400.png",
+                                        "image": "https://tinynft.meme/png/0.png"
+                                    }
+                                },
+                                "6e6369660105ff010a042020206060606020010a00010000": {
+                                    "name": "Tiny NFTs - The White One",
+                                    "description": "A lighter minimalist alternative",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/1_400.png",
+                                        "image": "https://tinynft.meme/png/1.png"
+                                    }
+                                },
+                                "6e636966010203040200010101fce3c66e010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - Opening",
+                                    "description": "Black and gold",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/2_400.png",
+                                        "image": "https://tinynft.meme/png/2.png"
+                                    }
+                                },
+                                "6e6369660102030402fcffffff00fbcece010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - It's Pink",
+                                    "description": "No taxation without representation",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/3_400.png",
+                                        "image": "https://tinynft.meme/png/3.png"
+                                    }
+                                },
+                                "6e636966010200040381163e11bbc10505ffffeaea010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - Compliments",
+                                    "description": "A triple gradient flux",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/4_400.png",
+                                        "image": "https://tinynft.meme/png/4.png"
+                                    }
+                                },
+                                "6e636966010200040258163e11ffffaa00010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - Green and Gold",
+                                    "description": "Abundance and Nourishment",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/5_400.png",
+                                        "image": "https://tinynft.meme/png/5.png"
+                                    }
+                                },
+                                "6e63696601020004028751aa29ff3ab875010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - Hot and Cold",
+                                    "description": "Green on green",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/6_400.png",
+                                        "image": "https://tinynft.meme/png/6.png"
+                                    }
+                                },
+                                "6e6369660102010402fd2ef36e0064fc6e010a046060602020202060010a00010000": {
+                                    "name": "Tiny NFTs - Nuance",
+                                    "description": "Green fade",
+                                    "uris": {
+                                        "icon": "https://tinynft.meme/png/7_400.png",
+                                        "image": "https://tinynft.meme/png/7.png"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "license": "CC0-1.0"
+}
